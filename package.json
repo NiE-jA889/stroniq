@@ -1,0 +1,8 @@
+{
+  "name": "stroniq-build",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build needed'",
+    "start": "node server/index.mjs"
+  }
+}
